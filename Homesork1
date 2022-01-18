@@ -1,0 +1,10 @@
+#   ruby analyzer.rb 
+#   homework assigment   Jan/2022 desteffani@gmail.com
+puts "What is your first name?"
+first_name = gets.chomp
+puts "What is your last name?"
+last_name = gets.chomp
+full_name = '#{first_name} #{last_name}'  #string interpolation
+puts "Your full name is #{first_name} #{last_name}"
+puts "Your full reversed name is #{last_name.reverse} #{first_name.reverse}"
+puts "Your name has #{full_name.length-1} characters in it"
