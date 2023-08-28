@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuarentenaLOKA
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning Python 3.-->
 - 💞️ I’m looking to collaborate on ruby questions if you know the answer.
 - 📫 How to reach me PS4 QuarentenaLOKA :-)
 
